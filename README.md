@@ -1,5 +1,5 @@
-# Loader
-Basically i make this thing for my self but, maybe you needed just use it.
+# #FREEPALESTINE
+Basically i make this thing for my self but, maybe you needed it's all free.
 
 ![Preview](https://cdn.discordapp.com/attachments/1202471761065549844/1425583406628081744/IMG_4739.png?ex=68e81d82&is=68e6cc02&hm=fb037f8e20532456d96b53b9c751b6eee1cb071200f130d2e3cc46a36a403a3e&)
 
