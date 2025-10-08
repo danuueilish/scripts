@@ -19,6 +19,6 @@ Basically i make this thing for my self but, maybe you needed just use it.
 
 feel free to ask, join our community click button below.
 
-###If you already join our discord make sure to get role roblox first on take-roles channel then go to wiki-roblox channel to see any information about this loader.
+### If you already join our discord make sure to get role roblox first on take-roles channel then go to wiki-roblox channel to see any information about this loader.
 
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Wkk7SVHvjV)
