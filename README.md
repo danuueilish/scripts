@@ -9,7 +9,7 @@ Basically i make this thing for my self but, maybe you needed it's all free.
 - Indo Beach (auto fishing)
 - Expedition (universal)
 - Auto Clicker (ios user)
-- Boombox Playlist
+- Boombox Playlist (100+ id songs)
 - Etc.
 
 ## How to use
