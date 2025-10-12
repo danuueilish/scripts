@@ -21,7 +21,7 @@ end)
 
 print("[danuu-hub] starting...")
 
-local base = "https://raw.githubusercontent.com/danuueilish/scripts/refs/heads/main/src/expedition/src/"
+local base = "https://raw.githubusercontent.com/danuueilish/scripts/main/src/expedition/src/"
 
 local UI = loadstring(game:HttpGet(base.."ui_main.lua"))()
 
