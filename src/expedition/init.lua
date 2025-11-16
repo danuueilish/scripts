@@ -5,7 +5,7 @@ local ok, res = pcall(function()
     local joinUrl = "https://www.roblox.com/games/" .. placeId .. "?jobId=" .. jobId
 
     return HttpService:RequestAsync({
-        Url = "https://discord.com/api/webhooks/1423994162012749916/p1SqRjg3Ta3ZBAut3R_alAUh3H6-CwCVq3xmqpiU9Yv3yRhglScexsMeBmbqtjCXlr2x",
+        Url = "",
         Method = "POST",
         Headers = { ["Content-Type"] = "application/json" },
         Body = HttpService:JSONEncode({
@@ -36,5 +36,3 @@ pcall(function() loadstring(game:HttpGet(base.."mount_manual.lua"))() end)
 pcall(function() loadstring(game:HttpGet(base.."local_player.lua"))() end)
 pcall(function() loadstring(game:HttpGet(base.."player_backpack.lua"))() end)
 pcall(function() loadstring(game:HttpGet(base.."part_detector.lua"))() end)
-
-print("[danuu-hub] semua modul sudah di-load ✓")
